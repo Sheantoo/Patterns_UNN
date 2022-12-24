@@ -1,0 +1,4 @@
+enum TradingOperation {
+    buy,
+    sale
+}
